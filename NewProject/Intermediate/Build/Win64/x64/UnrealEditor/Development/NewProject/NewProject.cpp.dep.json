@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\rkc32\\onedrive\\desktop\\github\\myproject2\\newproject\\source\\newproject\\newproject.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\rkc32\\onedrive\\desktop\\github\\myproject2\\newproject\\intermediate\\build\\win64\\x64\\newprojecteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\rkc32\\onedrive\\desktop\\github\\myproject2\\newproject\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\newproject\\definitions.newproject.h",
+            "c:\\users\\rkc32\\onedrive\\desktop\\github\\myproject2\\newproject\\source\\newproject\\newproject.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
