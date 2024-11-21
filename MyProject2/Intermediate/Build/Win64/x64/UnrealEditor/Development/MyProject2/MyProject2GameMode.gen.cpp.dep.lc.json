@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\rkc32\\onedrive\\desktop\\github\\myproject2\\myproject2\\intermediate\\build\\win64\\unrealeditor\\inc\\myproject2\\uht\\myproject2gamemode.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\rkc32\\onedrive\\desktop\\github\\myproject2\\myproject2\\intermediate\\build\\win64\\x64\\myproject2editor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\rkc32\\onedrive\\desktop\\github\\myproject2\\myproject2\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\myproject2\\definitions.myproject2.h",
+            "c:\\users\\rkc32\\onedrive\\desktop\\github\\myproject2\\myproject2\\source\\myproject2\\myproject2gamemode.h",
+            "d:\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "d:\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "d:\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "d:\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "c:\\users\\rkc32\\onedrive\\desktop\\github\\myproject2\\myproject2\\intermediate\\build\\win64\\unrealeditor\\inc\\myproject2\\uht\\myproject2gamemode.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
